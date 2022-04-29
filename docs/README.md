@@ -1,4 +1,4 @@
-#### Deployment: [GitHub Hosted site](benbeast1210.github.io/drum-machine/)
+#### Deployment: benbeast1210.github.io/drum-machine/
 
 # Drum-Machine
 
